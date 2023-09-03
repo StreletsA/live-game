@@ -1,1 +1,1 @@
-# jpeg-rust
+# Live Game in Rust
